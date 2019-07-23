@@ -281,6 +281,22 @@ template {
     display: none;
 }
 
+container {
+  position: relative;
+  width: 80%;
+  max-width: 250px;
+}
+
+react,
+css3,
+javascript,
+html5,
+portgresql,
+webpack {
+  width: 80%;
+  height: 50%;
+}
+
 
 /* ===================================================================
  * # basic/base setup styles
