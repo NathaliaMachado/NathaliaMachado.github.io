@@ -1,9 +1,5 @@
-## This is a social media web page like instagram made with React. 
-<br/><br/>
+# This is my repository's portfolio. Check the page <a href="nathaliamachado.github.io" target="_blank">HERE</a>
 
-#### Those are the functionalities so far:
 
-* Login
-* Comments 
-* Like
-* Search
+
+
