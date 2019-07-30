@@ -330,7 +330,6 @@
         clPlaceholder();
         clAlertBoxes();
         clAOS();
-        clAjaxChimp();
         clBackToTop();
 
     })();
