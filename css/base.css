@@ -210,19 +210,15 @@ template {
 
 container {
   position: relative;
-  width: 80%;
+  width: 100%;
   max-width: 250px;
 }
 
-react,
-css3,
-javascript,
-html5,
-portgresql,
-webpack {
-  width: 80%;
-  height: 50%;
+#logo {
+  width: 200px;
+  height:200px;
 }
+
 
 
 /* ===================================================================
